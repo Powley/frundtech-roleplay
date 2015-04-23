@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"			"Clockwork"
+	"title"			"Frundtech Roleplay"
+	"author"		"Powley"
+	"description"		"A revival of an old gamemode, completely remade and redeveloped for LemonPunch"
+}
